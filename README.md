@@ -3,4 +3,4 @@
 Козлов Данила  
 Группа: 6312-100503D
 
-Отчет в файле matrix-lab/report.pdf
+Отчеты лежат в файле reports/reportLab.pdf
